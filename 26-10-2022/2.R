@@ -1,0 +1,6 @@
+data("diamonds")
+view(diamonds)
+str(diamonds)
+colnames(diamonds)
+summary(diamonds)
+mutate(diamonds, carat)
